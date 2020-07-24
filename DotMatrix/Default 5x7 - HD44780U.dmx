@@ -1,0 +1,1143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<characters version="1.0" rows="8" cols="8">
+  <character code="33" description="!">
+    <rows>
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+      <row value="0" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="34" description="&quot;">
+    <rows>
+      <row value="10" />
+      <row value="10" />
+      <row value="10" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="35" description="#">
+    <rows>
+      <row value="10" />
+      <row value="10" />
+      <row value="31" />
+      <row value="10" />
+      <row value="31" />
+      <row value="10" />
+      <row value="10" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="36" description="$">
+    <rows>
+      <row value="4" />
+      <row value="15" />
+      <row value="20" />
+      <row value="14" />
+      <row value="5" />
+      <row value="30" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="37" description="%">
+    <rows>
+      <row value="24" />
+      <row value="25" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="19" />
+      <row value="3" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="38" description="&amp;">
+    <rows>
+      <row value="12" />
+      <row value="18" />
+      <row value="20" />
+      <row value="8" />
+      <row value="21" />
+      <row value="18" />
+      <row value="13" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="39" description="'">
+    <rows>
+      <row value="12" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="40" description="(">
+    <rows>
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="8" />
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="41" description=")">
+    <rows>
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="42" description="*">
+    <rows>
+      <row value="0" />
+      <row value="4" />
+      <row value="21" />
+      <row value="14" />
+      <row value="21" />
+      <row value="4" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="43" description="+">
+    <rows>
+      <row value="0" />
+      <row value="4" />
+      <row value="4" />
+      <row value="31" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="44" description=",">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="12" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="45" description="-">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="31" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="46" description=".">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="12" />
+      <row value="12" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="47" description="/">
+    <rows>
+      <row value="0" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="16" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="48" description="0">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="19" />
+      <row value="21" />
+      <row value="25" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="49" description="1">
+    <rows>
+      <row value="4" />
+      <row value="12" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="50" description="2">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="51" description="3">
+    <rows>
+      <row value="31" />
+      <row value="2" />
+      <row value="4" />
+      <row value="2" />
+      <row value="1" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="52" description="4">
+    <rows>
+      <row value="2" />
+      <row value="6" />
+      <row value="10" />
+      <row value="18" />
+      <row value="31" />
+      <row value="2" />
+      <row value="2" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="53" description="5">
+    <rows>
+      <row value="31" />
+      <row value="16" />
+      <row value="30" />
+      <row value="1" />
+      <row value="1" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="54" description="6">
+    <rows>
+      <row value="6" />
+      <row value="8" />
+      <row value="16" />
+      <row value="30" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="55" description="7">
+    <rows>
+      <row value="31" />
+      <row value="17" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="56" description="8">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="57" description="9">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="15" />
+      <row value="1" />
+      <row value="2" />
+      <row value="12" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="58" description=":">
+    <rows>
+      <row value="0" />
+      <row value="12" />
+      <row value="12" />
+      <row value="0" />
+      <row value="12" />
+      <row value="12" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="59" description=";">
+    <rows>
+      <row value="0" />
+      <row value="12" />
+      <row value="12" />
+      <row value="0" />
+      <row value="12" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="60" description="&lt;">
+    <rows>
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="16" />
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="61" description="=">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="31" />
+      <row value="0" />
+      <row value="31" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="62" description="&gt;">
+    <rows>
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="63" description="?">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="0" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="64" description="@">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="1" />
+      <row value="13" />
+      <row value="21" />
+      <row value="21" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="65" description="A">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="31" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="66" description="B">
+    <rows>
+      <row value="30" />
+      <row value="17" />
+      <row value="17" />
+      <row value="30" />
+      <row value="17" />
+      <row value="17" />
+      <row value="30" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="67" description="C">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="68" description="D">
+    <rows>
+      <row value="28" />
+      <row value="18" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="18" />
+      <row value="28" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="69" description="E">
+    <rows>
+      <row value="31" />
+      <row value="16" />
+      <row value="16" />
+      <row value="30" />
+      <row value="16" />
+      <row value="16" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="70" description="F">
+    <rows>
+      <row value="31" />
+      <row value="16" />
+      <row value="16" />
+      <row value="30" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="71" description="G">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="16" />
+      <row value="23" />
+      <row value="17" />
+      <row value="17" />
+      <row value="15" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="72" description="H">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="31" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="73" description="I">
+    <rows>
+      <row value="14" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="74" description="J">
+    <rows>
+      <row value="7" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="18" />
+      <row value="12" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="75" description="K">
+    <rows>
+      <row value="17" />
+      <row value="18" />
+      <row value="20" />
+      <row value="24" />
+      <row value="20" />
+      <row value="18" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="76" description="L">
+    <rows>
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="77" description="M">
+    <rows>
+      <row value="17" />
+      <row value="27" />
+      <row value="21" />
+      <row value="21" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="78" description="N">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="25" />
+      <row value="21" />
+      <row value="19" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="79" description="O">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="80" description="P">
+    <rows>
+      <row value="30" />
+      <row value="17" />
+      <row value="17" />
+      <row value="30" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="81" description="Q">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="21" />
+      <row value="18" />
+      <row value="13" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="82" description="R">
+    <rows>
+      <row value="30" />
+      <row value="17" />
+      <row value="17" />
+      <row value="30" />
+      <row value="20" />
+      <row value="18" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="83" description="S">
+    <rows>
+      <row value="14" />
+      <row value="17" />
+      <row value="16" />
+      <row value="14" />
+      <row value="1" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="84" description="T">
+    <rows>
+      <row value="31" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="85" description="U">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="86" description="V">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="10" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="87" description="W">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="21" />
+      <row value="21" />
+      <row value="21" />
+      <row value="10" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="88" description="X">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="10" />
+      <row value="4" />
+      <row value="10" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="89" description="Y">
+    <rows>
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="10" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="90" description="Z">
+    <rows>
+      <row value="31" />
+      <row value="1" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="16" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="91" description="[">
+    <rows>
+      <row value="14" />
+      <row value="8" />
+      <row value="8" />
+      <row value="8" />
+      <row value="8" />
+      <row value="8" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="92" description="\">
+    <rows>
+      <row value="0" />
+      <row value="16" />
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="1" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="93" description="]">
+    <rows>
+      <row value="14" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="2" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="94" description="^">
+    <rows>
+      <row value="4" />
+      <row value="10" />
+      <row value="17" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="95" description="_">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="96" description="`">
+    <rows>
+      <row value="8" />
+      <row value="4" />
+      <row value="2" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="97" description="a">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="14" />
+      <row value="1" />
+      <row value="15" />
+      <row value="17" />
+      <row value="15" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="98" description="b">
+    <rows>
+      <row value="16" />
+      <row value="16" />
+      <row value="22" />
+      <row value="25" />
+      <row value="17" />
+      <row value="17" />
+      <row value="30" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="99" description="c">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="14" />
+      <row value="16" />
+      <row value="16" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="100" description="d">
+    <rows>
+      <row value="1" />
+      <row value="1" />
+      <row value="13" />
+      <row value="19" />
+      <row value="17" />
+      <row value="17" />
+      <row value="15" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="101" description="e">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="14" />
+      <row value="17" />
+      <row value="31" />
+      <row value="16" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="102" description="f">
+    <rows>
+      <row value="6" />
+      <row value="9" />
+      <row value="8" />
+      <row value="28" />
+      <row value="8" />
+      <row value="8" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="103" description="g">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="15" />
+      <row value="17" />
+      <row value="15" />
+      <row value="1" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="104" description="h">
+    <rows>
+      <row value="16" />
+      <row value="16" />
+      <row value="22" />
+      <row value="25" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="105" description="i">
+    <rows>
+      <row value="4" />
+      <row value="0" />
+      <row value="4" />
+      <row value="12" />
+      <row value="4" />
+      <row value="4" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="106" description="j">
+    <rows>
+      <row value="2" />
+      <row value="0" />
+      <row value="6" />
+      <row value="2" />
+      <row value="2" />
+      <row value="18" />
+      <row value="12" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="107" description="k">
+    <rows>
+      <row value="16" />
+      <row value="16" />
+      <row value="18" />
+      <row value="20" />
+      <row value="24" />
+      <row value="20" />
+      <row value="18" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="108" description="l">
+    <rows>
+      <row value="12" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="109" description="m">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="27" />
+      <row value="21" />
+      <row value="21" />
+      <row value="21" />
+      <row value="21" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="110" description="n">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="22" />
+      <row value="25" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="111" description="o">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="14" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="112" description="p">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="30" />
+      <row value="17" />
+      <row value="30" />
+      <row value="16" />
+      <row value="16" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="113" description="q">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="13" />
+      <row value="19" />
+      <row value="15" />
+      <row value="1" />
+      <row value="1" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="114" description="r">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="22" />
+      <row value="25" />
+      <row value="16" />
+      <row value="16" />
+      <row value="16" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="115" description="s">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="14" />
+      <row value="16" />
+      <row value="14" />
+      <row value="1" />
+      <row value="30" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="116" description="t">
+    <rows>
+      <row value="8" />
+      <row value="8" />
+      <row value="28" />
+      <row value="8" />
+      <row value="8" />
+      <row value="9" />
+      <row value="6" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="117" description="u">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="19" />
+      <row value="13" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="118" description="v">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="10" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="119" description="w">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="17" />
+      <row value="17" />
+      <row value="21" />
+      <row value="21" />
+      <row value="10" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="120" description="x">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="17" />
+      <row value="10" />
+      <row value="4" />
+      <row value="10" />
+      <row value="17" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="121" description="y">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="17" />
+      <row value="17" />
+      <row value="15" />
+      <row value="1" />
+      <row value="14" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="122" description="z">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="31" />
+      <row value="2" />
+      <row value="4" />
+      <row value="8" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="123" description="{">
+    <rows>
+      <row value="2" />
+      <row value="4" />
+      <row value="4" />
+      <row value="8" />
+      <row value="4" />
+      <row value="4" />
+      <row value="2" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="124" description="|">
+    <rows>
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="4" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="125" description="}">
+    <rows>
+      <row value="8" />
+      <row value="4" />
+      <row value="4" />
+      <row value="2" />
+      <row value="4" />
+      <row value="4" />
+      <row value="8" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="126" description="~">
+    <rows>
+      <row value="0" />
+      <row value="0" />
+      <row value="13" />
+      <row value="18" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+      <row value="0" />
+    </rows>
+  </character>
+  <character code="127" description="">
+    <rows>
+      <row value="4" />
+      <row value="10" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="17" />
+      <row value="31" />
+      <row value="0" />
+    </rows>
+  </character>
+</characters>
